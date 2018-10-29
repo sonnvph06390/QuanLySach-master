@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\917ed5983cb574cfa017cff3fdb4ef70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\52a1847fc1e024e0d2c5cc538930c971\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\242547c8fefda5d6b3f8984965e510ee\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d085907a836a2bddd9e2891a09dfdd31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8e36a749acc1ae48f2cb9cabb5e465d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cac06eaaab3eed6bae26312326f705c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d833802d2e7944946f0bcbbf8da9782f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2a7f5c11e5f11465eaad7e9af7401d05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\082b6547e96f5221883f81e92d1cc61f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cdc0ac84db3fe0c636472e35d338bd07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9e211eb992e0317b14ccb282aaeceed1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\39f7432bcb65e2a92f29725f67a617ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0e785940188c4d61eb5dd87d71c404fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\57d3b9c8bbaab078f09984dc108c2e31\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d556ec46ab2f325e12f3d3f151d54686\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3164930b816c9f4c786bbadd54bc225c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2f6ff23c6e84e5beb039e2f20eb9f07\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc370a19ccd770fa16abbf86506154d6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:1-62:12
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:5:5-60:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\242547c8fefda5d6b3f8984965e510ee\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\242547c8fefda5d6b3f8984965e510ee\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.dell.qunlsch.ui.ManHinhChoActivity
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:14:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:13:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.dell.qunlsch.ui.LoginActivity
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:21:9-23:52
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:22:13-45
+activity#com.example.dell.qunlsch.ui.HomeActivity
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:25:9-29:47
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:27:13-56
+	android:theme
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:26:13-44
+activity#com.example.dell.qunlsch.ui.ListUserAct
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:32:13-43
+activity#com.example.dell.qunlsch.ui.TheLoaiActivity
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:37:13-47
+activity#com.example.dell.qunlsch.ui.SachActivity
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:41:13-44
+activity#com.example.dell.qunlsch.ui.HoaDonActivity
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:44:9-46:52
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:45:13-46
+activity#com.example.dell.qunlsch.ui.SachBanChayActivity
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:49:13-51
+activity#com.example.dell.qunlsch.ui.ThongKeActivtiy
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:53:13-47
+activity#com.example.dell.qunlsch.ui.HoaDonChiTietActivity
+ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:56:9-58:52
+	android:screenOrientation
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml:57:13-53
+uses-sdk
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\917ed5983cb574cfa017cff3fdb4ef70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\917ed5983cb574cfa017cff3fdb4ef70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\52a1847fc1e024e0d2c5cc538930c971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\52a1847fc1e024e0d2c5cc538930c971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\242547c8fefda5d6b3f8984965e510ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\242547c8fefda5d6b3f8984965e510ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d085907a836a2bddd9e2891a09dfdd31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\d085907a836a2bddd9e2891a09dfdd31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8e36a749acc1ae48f2cb9cabb5e465d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8e36a749acc1ae48f2cb9cabb5e465d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cac06eaaab3eed6bae26312326f705c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cac06eaaab3eed6bae26312326f705c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d833802d2e7944946f0bcbbf8da9782f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d833802d2e7944946f0bcbbf8da9782f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2a7f5c11e5f11465eaad7e9af7401d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2a7f5c11e5f11465eaad7e9af7401d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\082b6547e96f5221883f81e92d1cc61f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\082b6547e96f5221883f81e92d1cc61f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cdc0ac84db3fe0c636472e35d338bd07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cdc0ac84db3fe0c636472e35d338bd07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9e211eb992e0317b14ccb282aaeceed1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9e211eb992e0317b14ccb282aaeceed1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\39f7432bcb65e2a92f29725f67a617ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\39f7432bcb65e2a92f29725f67a617ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0e785940188c4d61eb5dd87d71c404fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0e785940188c4d61eb5dd87d71c404fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\57d3b9c8bbaab078f09984dc108c2e31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\57d3b9c8bbaab078f09984dc108c2e31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d556ec46ab2f325e12f3d3f151d54686\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d556ec46ab2f325e12f3d3f151d54686\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3164930b816c9f4c786bbadd54bc225c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3164930b816c9f4c786bbadd54bc225c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2f6ff23c6e84e5beb039e2f20eb9f07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2f6ff23c6e84e5beb039e2f20eb9f07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc370a19ccd770fa16abbf86506154d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc370a19ccd770fa16abbf86506154d6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\Downloads\QuanLySach-master\QuanLySach-master\app\src\main\AndroidManifest.xml
